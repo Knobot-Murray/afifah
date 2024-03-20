@@ -1,9 +1,0 @@
-const firebaseConfig = {
-  apiKey: "AIzaSyCStfBJfmBfxcc-uNFrCpTPJ2gNnOM3_0g",
-  authDomain: "rayduan-ba3ef.firebaseapp.com",
-  databaseURL: "https://rayduan-ba3ef-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "rayduan-ba3ef",
-  storageBucket: "rayduan-ba3ef.appspot.com",
-  messagingSenderId: "677625836960",
-  appId: "1:677625836960:web:8ad3bf085124273498e0c5"
-};
